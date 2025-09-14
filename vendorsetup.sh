@@ -7,8 +7,4 @@
 
 add_lunch_combo omni_a346-eng
 add_lunch_combo omni_a346-user
-add_lunch_combo omni_a346-userdebug```
-
-**Step 4: Commit the file.**
-
-Click the green **"Commit new file"** button.
+add_lunch_combo omni_a346-userdebug
