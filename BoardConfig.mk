@@ -71,6 +71,7 @@ BOARD_USES_METADATA_PARTITION := true
 
 # TWRP Configuration
 TW_THEME := portrait_hdpi
+TW_MAX_BRIGHTNESS := 255
 TW_EXTRA_LANGUAGES := true
 TW_SCREEN_BLANK_ON_BOOT := true
 TW_INPUT_BLACKLIST := "hbtp_vm"
